@@ -49,3 +49,9 @@ button:hover{
 button:active{
     background-color: rgb(53, 53, 53) ;
 }
+@media screen and (width: 480px) {
+    button{
+        width: 100%;
+        margin-inline:0px;
+    }
+  }
