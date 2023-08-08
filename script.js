@@ -9,3 +9,9 @@ addBtn.addEventListener("click",()=>{
     count ++; 
     counter.innerText = count;
 })
+
+
+subtractBtn.addEventListener("click",()=>{
+    count --; 
+    counter.innerText = count;
+})
