@@ -5,8 +5,6 @@
 }
 body{
     background-color: rgb(22, 22, 22);
-    width: 100vw;
-    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,13 +12,14 @@ body{
 h1{
     font-size: 50px;
     margin-bottom: 5%;
+    color: rgb(179, 163, 163);
 
 }
 h2#count{
     font-size: 50px;
     font-weight: 900;
     margin-bottom: 4%;
-    color: rgb(148, 188, 201);
+    color: rgb(253, 253, 253);
 }
 div{                                            
     text-align: center;
