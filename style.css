@@ -8,11 +8,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
     font-size: 50px;
     margin-bottom: 5%;
-    color: rgb(179, 163, 163);
+    color: rgb(12, 12, 12);
 
 }
 h2#count{
